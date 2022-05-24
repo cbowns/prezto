@@ -40,6 +40,12 @@ zstyle ':prezto:load' pmodule \
   'completion' \
   'history-substring-search' \
   'prompt'
+  'homebrew' \
+  'osx' \
+  'git' \
+  'prompt' \
+  'syntax-highlighting'
+
 
 #
 # Autosuggestions
