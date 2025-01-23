@@ -166,6 +166,9 @@ zstyle ':prezto:module:prompt' theme 'powerlevel10k'
 # Python
 #
 
+# Disable auto-aliases
+zstyle ':prezto:module:python:alias' skip 'yes'
+
 # Auto switch the Python virtualenv on directory change.
 # zstyle ':prezto:module:python:virtualenv' auto-switch 'yes'
 
