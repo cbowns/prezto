@@ -43,9 +43,9 @@ zstyle ':prezto:load' pmodule \
   'homebrew' \
   'osx' \
   'git' \
-  'syntax-highlighting' \
-  'tmux' \
-  'ruby'
+  'syntax-highlighting'
+  # 'tmux' \
+  # 'ruby'
 
 #
 # Autosuggestions
